@@ -16,7 +16,7 @@ Des Weiteren habe ich als 12V-Quelle das allseits verfügbare Booster-Modul mit 
 
 Zur besseren Handhabbarkeit wurden alle Komponenten in ein Gehäuse aus 3D-Druckteilen eingebaut. Hierbei wurde auch an eine RESET-Knopf-Verlängerung für den Arduino Uno  gedacht, um das Terminalprogramm gegebenenfalls neu zu starten. Der Zusammenbau ist recht einfach und kann den Fotos und CAD-Ansichten entnommen werden. Unter der TQFP-Platine werden lediglich noch 4 selbstklebende Füße angebracht. 
 
-Die Bauunterlagen des Projekts, inklusive die Gerber-Daten für die Leiterplatten, liegen im Ordner DOKUMENTE und sind unter Beachtung der Lizenzbedingungen zur persönlichen Verwendung freigegeben. Bezüglich der Firmware für den Arduino Uno, verweise ich auf den Beitrag bei [RescueAVR](https://github.com/felias-fogg/RescueAVR).
+Die Bauunterlagen des Projekts, inklusive die Gerber-Daten für die Leiterplatten, liegen im Ordner DOKUMENTE und sind auch auf meiner Webseite [Eltguy.de](https://eltguy.de/selbstbauprojekte-elektronik-technik-hobbytechnologien/flash-tools-programmiertool-esp-avr-adapter). Sie sind unter Beachtung der Lizenzbedingungen zur persönlichen Verwendung freigegeben. Bezüglich der Firmware für den Arduino Uno, verweise ich auf den Beitrag bei [RescueAVR](https://github.com/felias-fogg/RescueAVR).
 
 Bei Inbetriebnahme bitte beachten, dass die Controller nur bei abgeschalteter Betriebsspannung (USB-Stecker gezogen) eingesteckt bzw. eingelegt werden 👀️ !
 
