@@ -18,7 +18,7 @@ Zur besseren Handhabbarkeit wurden alle Komponenten in ein Gehäuse aus 3D-Druck
 
 Die Bauunterlagen des Projekts, inklusive die Gerber-Daten für die Leiterplatten, liegen im Ordner DOKUMENTE und sind auch auf meiner Webseite [Eltguy.de](https://eltguy.de/selbstbauprojekte-elektronik-technik-hobbytechnologien/flash-tools-programmiertool-esp-avr-adapter). Sie sind unter Beachtung der Lizenzbedingungen zur persönlichen Verwendung freigegeben. Bezüglich der Firmware für den Arduino Uno, verweise ich auf den Beitrag bei [RescueAVR](https://github.com/felias-fogg/RescueAVR). Ist die <em>RescuAVR.ino</em> einmal auf den Uno geflasht, kann man sich mit einem Terminalprogramm (z.B. Hterm), über den virtuellen COM-Port und einer Baudrate von 19200, mit dem Gerät verbinden. Dann ist einfach dem Programm zu folgen.
 
-Bei Betrieb bitte beachten, dass die Controller <strong>nur bei abgeschalteter Betriebsspannung (USB-Stecker gezogen) gewechselt werden dürfen</strong> 👀️ !
+Bei Betrieb bitte beachten, dass die Controller <strong>nur bei abgeschalteter Betriebsspannung (USB-Stecker gezogen) gewechselt werden dürfen</strong> 👀️ ! <span style="color: red;">Dieser Text ist rot.</span>
 
 ### Lizenzierung
 
